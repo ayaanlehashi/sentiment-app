@@ -1,0 +1,4 @@
+gunicorn==19.8.1
+requests
+dash
+flask
